@@ -1,0 +1,334 @@
+# Translation of Themes - Fooding in Spanish (Argentina)
+# This file is distributed under the same license as the Themes - Fooding package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-28 04:47:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_AR\n"
+"Project-Id-Version: Themes - Fooding\n"
+
+#. Description of the theme
+msgid "Fooding is a good-looking, featured-packed theme that allows you to tell your story in a dynamic, attractive and enjoyable way, making it perfect for food and recipes related websites."
+msgstr "Fooding es un tema atractivo, lleno de características que te permite contar tu historia de una manera dinámica, atractiva y disfrutable, haciendo que sea perfecto para sitios relacionados con comida y recetas."
+
+#. Theme Name of the theme
+msgid "Fooding"
+msgstr "Fooding."
+
+#: inc/template-tags.php:189
+msgid "says:"
+msgstr "dice:"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Página de ancho total"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-single.php:42
+msgid "Continue Reading"
+msgstr "Continuar leyendo"
+
+#: template-parts/content-single.php:40
+msgid "Next article"
+msgstr "Próximo artículo"
+
+#: template-parts/content-single.php:39
+msgid "Previous article"
+msgstr "Artículo previo"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:31
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "No podemos encontrar lo que estás buscando. Quizás hacer otra búsqueda pueda ayudarte."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento pero nada coincido con tus términos de búsqueda. Por favor, probá con palabras clave diferentes."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Estás listo para publicar tu primera entrada? <a href=\"%1$s\">Empezá acá</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No hemos encontrado nada"
+
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para. %s"
+
+#: inc/widgets.php:105
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/widgets.php:104
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/widgets.php:102
+msgid "Order"
+msgstr "Ordenar"
+
+#: inc/widgets.php:99
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/widgets.php:98
+msgid "Comment count"
+msgstr "Cuenta de comentarios"
+
+#: inc/widgets.php:96
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/widgets.php:94
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: inc/widgets.php:89
+msgid "Number of photos"
+msgstr "Número de fotos"
+
+#: inc/widgets.php:84 inc/widgets.php:97
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets.php:73
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: inc/widgets.php:18
+msgid "Displays custom posts."
+msgstr "Mostrar entradas personalizadas."
+
+#: inc/widgets.php:15
+msgid "Fooding Recent Posts"
+msgstr "Entradas recientes de Fooding"
+
+#: inc/template-tags.php:246
+msgid "Fooding Theme by %1$s"
+msgstr "Tema Fooding por %1$s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:193
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: inc/template-tags.php:184
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando moderación."
+
+#: inc/template-tags.php:170
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:170
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:113 template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:106
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Dejar un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:99
+msgid "Tagged : %1$s"
+msgstr "Etiquetado: %1$s"
+
+#: inc/template-tags.php:93
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: inc/template-tags.php:38 inc/template-tags.php:74
+msgid " in %1$s"
+msgstr "en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:37 inc/template-tags.php:73 inc/template-tags.php:91
+#: inc/template-tags.php:97
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33 inc/template-tags.php:69
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28 inc/template-tags.php:64
+msgctxt "post date"
+msgid " on %s"
+msgstr "en %s"
+
+#: inc/extras.php:68
+msgid "[Continue Reading]"
+msgstr "[Continuar leyendo]"
+
+#: inc/customizer.php:163
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: inc/customizer.php:152
+msgid "Primary Color"
+msgstr "Color primario"
+
+#: inc/customizer.php:140
+msgid "Enter number post display on Staff section."
+msgstr "Entrar el número de entrafas a mostrar en la sección Staff"
+
+#: inc/customizer.php:125
+msgid "Enter post tags, separated by commas and without space."
+msgstr "Ingresar etiquetas de entrada, separadas por comas y sin espacio."
+
+#: inc/customizer.php:108
+msgid "Turn on/off the staff picks"
+msgstr "Encendé/Apagá las selecciónes de staff"
+
+#: inc/customizer.php:93
+msgid "Staff Picks"
+msgstr "Selecciones de staff"
+
+#: inc/customizer.php:84
+msgid "Grid"
+msgstr "Grilla"
+
+#: inc/customizer.php:79
+msgid "Archive/Search layout:"
+msgstr "Diseño de Archivo/Buscar:"
+
+#: inc/customizer.php:66
+msgid "Archive/Search"
+msgstr "Archivo/Buscar"
+
+#: inc/customizer.php:57
+msgid "Homepage 2"
+msgstr "Inicio 2"
+
+#: inc/customizer.php:56
+msgid "Homepage 1"
+msgstr "Inicio 1"
+
+#: inc/customizer.php:55 inc/customizer.php:83
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/customizer.php:51
+msgid "Only apply when frontpage is a static page"
+msgstr "Sólo aplica cuando el pié de página es una página estática"
+
+#: inc/customizer.php:50
+msgid "Frontpage Layout"
+msgstr "Diseño de página de inicio"
+
+#: inc/customizer.php:35
+msgid "General"
+msgstr "general"
+
+#: inc/customizer.php:27
+msgid "Theme Options"
+msgstr "Opciones de theme"
+
+#: header.php:41
+msgid "Skip to content"
+msgstr "Ir al comentario"
+
+#: functions.php:166
+msgid "Footer"
+msgstr "Pié de página"
+
+#: functions.php:158 functions.php:168
+msgid "Add widgets here."
+msgstr "Agregar widgets aquí"
+
+#: functions.php:156
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:125
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "Sin subconjunto"
+
+#: functions.php:117
+msgctxt "Droid Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:113
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:60
+msgid "Primary"
+msgstr "Primario"
+
+#: footer.php:39
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Todos los derechos reservados."
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensamiento en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamientos en &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un pensamiento en &ldquo; %s&rdquo;"
+
+#: archive.php:62 front-page.php:79 search.php:55
+msgid "Page"
+msgstr "Páginas"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que noentramos anda en esta ubicación. Probá con los enlaces de abajo o una búsqueda"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡OOops! La página no puede ser encontrada."
+
+#. Author URI of the theme
+msgid "https://www.famethemes.com/"
+msgstr "https://www.famethemes.com/"
+
+#. Author of the theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the theme
+msgid "https://freeresponsivethemes.com/fooding/"
+msgstr "https://freeresponsivethemes.com/fooding/"
